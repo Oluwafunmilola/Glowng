@@ -1,0 +1,45 @@
+body{
+	font-family: georgia;
+	background: grey;
+	margin: 0;
+	padding: 0; 
+}
+.container{
+	max-width: 75%;
+	margin: 0 auto;
+}
+#main-header{
+	background: aqua;
+	padding: 5px, 15px;
+}
+h1{
+	text-align: center;
+	font-family: "Playfair Display"
+	font-style: italic;
+}
+h1, h2, h4, h5, h6{
+	color: blue;
+}
+.image{
+	size: cover;
+	height: 3000px;
+	position: right;
+	width: 3000px;
+}
+h3{
+	color: rgba(green);
+}
+div .id h3{
+	font-size: 30px
+	font-family: sans-serif;
+	font-weight: 600;
+}
+table{
+	border-collapse: collapse;
+}
+table, th, td{
+	border-style: dotted;
+	border-radius: 40px;
+	border: 2px solid black;
+	color: red; 
+}
