@@ -1,24 +1,38 @@
-body{
-	font-family: georgia;
-	background: grey;
+*{
 	margin: 0;
-	padding: 0; 
+	padding: 0;
+	box-sizing: border-box;
 }
+
+.banner{ background-image:
+url(https://res.cloudinary.com/oluwafunmilola/image/upload/v1567531153/bgimg1_hoxpt7.jpg);
+background-size: cover; 
+min-height: 500px;  
+background-position: right bottom;
+}
+
 .container{
-	max-width: 75%;
+	max-width: 1100px;
 	margin: 0 auto;
+}
+
+body{
+	font-family: sans-serif;
+	 
+}
+
 }
 #main-header{
 	background: aqua;
 	padding: 5px, 15px;
 }
 h1{
-	text-align: center;
+	text-align: left;
 	font-family: "Playfair Display"
 	font-style: italic;
 }
 h1, h2, h4, h5, h6{
-	color: blue;
+	color: white;
 }
 .image{
 	size: cover;
