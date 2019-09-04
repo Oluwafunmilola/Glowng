@@ -5,7 +5,7 @@
 }
 
 .banner{ background-image:
-url(https://res.cloudinary.com/oluwafunmilola/image/upload/v1567531153/bgimg1_hoxpt7.jpg);
+url(https://res.cloudinary.com/oluwafunmilola/image/upload/v1567600575/kees-streefkerk-Adl90-aXYwA-unsplash_uxuues.jpg);
 background-size: cover; 
 min-height: 500px;  
 background-position: right bottom;
@@ -32,7 +32,7 @@ li.banner-text{
 	font-size:  25px
 	padding-top: 15px;
 	padding-left: 30px;
-	color: brown;
+	color: pink;
 }
 
 body{
@@ -60,4 +60,9 @@ table, th,tr{
 }
 td{
 	color: black;
+}
+#button{
+	background-color: red;
+	font-size: 20px;
+	padding: 10px 20px;
 }
